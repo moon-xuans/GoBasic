@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// defer和匿名函数结合使用
 func main() {
 	a := 10
 	b := 20
