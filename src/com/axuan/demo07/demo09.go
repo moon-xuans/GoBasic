@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// 二维数组的介绍
 func main() {
 	// 有多少个[]就是多少维
 	// 有多少个[]就用多少个循环
