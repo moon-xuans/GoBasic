@@ -6,6 +6,8 @@ import (
 	"time"
 )
 
+// 猜数字游戏
+
 func CreateNum(p *int) {
 	// 设置种子
 	rand.Seed(time.Now().UnixNano())
